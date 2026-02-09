@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [neuvector/neuvector-kubewarden-policy-converter](https://github.com/neuvector/neuvector-kubewarden-policy-converter) - CLI tool to convert NeuVector Admission Control Rules into Kubewarden Policy CRs for Kubernetes. (2 days ago)
-- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (2 days ago)
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (2 days ago)
-- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (2 days ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (4 days ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 day ago)
+- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (3 days ago)
+- [neuvector/neuvector-kubewarden-policy-converter](https://github.com/neuvector/neuvector-kubewarden-policy-converter) - CLI tool to convert NeuVector Admission Control Rules into Kubewarden Policy CRs for Kubernetes. (3 days ago)
+- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (3 days ago)
+- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (3 days ago)
 
 #### 🌱 Check out my recent projects
 
