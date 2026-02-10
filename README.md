@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (today)
+- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (today)
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (1 day ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (2 days ago)
-- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (4 days ago)
 - [neuvector/neuvector-kubewarden-policy-converter](https://github.com/neuvector/neuvector-kubewarden-policy-converter) - CLI tool to convert NeuVector Admission Control Rules into Kubewarden Policy CRs for Kubernetes. (4 days ago)
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (4 days ago)
+- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (4 days ago)
 
 #### 🌱 Check out my recent projects
 
