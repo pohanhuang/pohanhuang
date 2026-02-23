@@ -8,7 +8,7 @@
 
 - [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 week ago)
 - [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (1 week ago)
-- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (1 week ago)
+- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (2 weeks ago)
 - [neuvector/neuvector-kubewarden-policy-converter](https://github.com/neuvector/neuvector-kubewarden-policy-converter) - CLI tool to convert NeuVector Admission Control Rules into Kubewarden Policy CRs for Kubernetes. (2 weeks ago)
 - [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (2 weeks ago)
 
