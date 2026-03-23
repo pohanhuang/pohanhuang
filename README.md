@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (today)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (3 days ago)
 - [neuvector/scanner](https://github.com/neuvector/scanner) -  (4 days ago)
 - [neuvector/neuvector-kubewarden-policy-converter](https://github.com/neuvector/neuvector-kubewarden-policy-converter) - CLI tool to convert NeuVector Admission Control Rules into Kubewarden Policy CRs for Kubernetes. (1 week ago)
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (1 week ago)
-- [pohanhuang/pohanhuang.github.io](https://github.com/pohanhuang/pohanhuang.github.io) -  (1 week ago)
 
 #### 🌱 Check out my recent projects
 
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli
 - [pohanhuang/kep-sandbox](https://github.com/pohanhuang/kep-sandbox) - 
 - [pohanhuang/kube-lens](https://github.com/pohanhuang/kube-lens) - See every image through a security lens.
 - [pohanhuang/pohanhuang.github.io](https://github.com/pohanhuang/pohanhuang.github.io) - 
 - [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) - 
-- [pohanhuang/Solfle](https://github.com/pohanhuang/Solfle) - 
 
 #### 🔨 Check out my recent contirbution
 
