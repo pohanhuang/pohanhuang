@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (today)
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (3 days ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (4 days ago)
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (1 day ago)
+- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (4 days ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (5 days ago)
 - [neuvector/neuvector-kubewarden-policy-converter](https://github.com/neuvector/neuvector-kubewarden-policy-converter) - CLI tool to convert NeuVector Admission Control Rules into Kubewarden Policy CRs for Kubernetes. (1 week ago)
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software (1 week ago)
 
