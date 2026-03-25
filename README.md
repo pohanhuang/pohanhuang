@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (today)
-- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (today)
-- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (1 day ago)
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (4 days ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (5 days ago)
+- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (today)
+- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (1 day ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 day ago)
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (1 day ago)
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (2 days ago)
 
 #### 🌱 Check out my recent projects
 
