@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (today)
-- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (1 day ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (2 days ago)
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (3 days ago)
-- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (3 days ago)
+- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 day ago)
+- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (2 days ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (3 days ago)
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core (4 days ago)
+- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (4 days ago)
 
 #### 🌱 Check out my recent projects
 
