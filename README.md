@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (1 day ago)
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (today)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (2 days ago)
 - [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (3 days ago)
 - [neuvector/scanner](https://github.com/neuvector/scanner) -  (4 days ago)
