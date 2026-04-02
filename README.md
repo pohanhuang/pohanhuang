@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [neuvector/misc](https://github.com/neuvector/misc) -  (today)
-- [neuvector/prometheus-exporter](https://github.com/neuvector/prometheus-exporter) - Prometheus exporter and Grafana template for NeuVector container security platform (today)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (today)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (today)
-- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (today)
+- [neuvector/allinone](https://github.com/neuvector/allinone) -  (1 day ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 day ago)
+- [neuvector/neuvector-helm](https://github.com/neuvector/neuvector-helm) - HELM chart to install NeuVector container cluster (1 day ago)
+- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (1 day ago)
 
 #### 🌱 Check out my recent projects
 
