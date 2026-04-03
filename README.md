@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (today)
-- [neuvector/registry-adapter](https://github.com/neuvector/registry-adapter) - Container registry adapters to work with NeuVector vulnerability scan (today)
-- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (today)
-- [neuvector/neuvector-helm](https://github.com/neuvector/neuvector-helm) - HELM chart to install NeuVector container cluster (1 day ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 day ago)
+- [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 day ago)
+- [neuvector/registry-adapter](https://github.com/neuvector/registry-adapter) - Container registry adapters to work with NeuVector vulnerability scan (1 day ago)
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (1 day ago)
+- [neuvector/neuvector-helm](https://github.com/neuvector/neuvector-helm) - HELM chart to install NeuVector container cluster (2 days ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (2 days ago)
 
 #### 🌱 Check out my recent projects
 
