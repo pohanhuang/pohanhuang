@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (today)
 - [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 day ago)
 - [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (2 days ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (4 days ago)
-- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (5 days ago)
 - [neuvector/registry-adapter](https://github.com/neuvector/registry-adapter) - Container registry adapters to work with NeuVector vulnerability scan (5 days ago)
 
 #### 🌱 Check out my recent projects
