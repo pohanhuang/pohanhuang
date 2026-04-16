@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (today)
-- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (today)
-- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (2 days ago)
-- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (6 days ago)
+- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (1 day ago)
+- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (1 day ago)
+- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (3 days ago)
+- [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (1 week ago)
 - [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 week ago)
 
 #### 🌱 Check out my recent projects
