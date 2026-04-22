@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (today)
-- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (5 days ago)
-- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (6 days ago)
+- [pohanhuang/dotfiles](https://github.com/pohanhuang/dotfiles) -  (today)
+- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (1 day ago)
+- [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (6 days ago)
+- [neuvector/sigstore-interface](https://github.com/neuvector/sigstore-interface) -  (1 week ago)
 - [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli (1 week ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (2 weeks ago)
 
 #### 🌱 Check out my recent projects
 
+- [pohanhuang/dotfiles](https://github.com/pohanhuang/dotfiles) - 
 - [pohanhuang/harvester-updatecli-poc](https://github.com/pohanhuang/harvester-updatecli-poc) - POC for Harvester new bumping system with updatecli
 - [pohanhuang/kep-sandbox](https://github.com/pohanhuang/kep-sandbox) - 
 - [pohanhuang/kube-lens](https://github.com/pohanhuang/kube-lens) - See every image through a security lens.
 - [pohanhuang/pohanhuang.github.io](https://github.com/pohanhuang/pohanhuang.github.io) - 
-- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) - 
 
 #### 🔨 Check out my recent contirbution
 
