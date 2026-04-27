@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (4 days ago)
+- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (today)
 - [pohanhuang/dotfiles](https://github.com/pohanhuang/dotfiles) -  (5 days ago)
 - [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (6 days ago)
 - [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (1 week ago)
