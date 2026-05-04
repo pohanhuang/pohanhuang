@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (5 days ago)
+- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (6 days ago)
 - [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 week ago)
 - [pohanhuang/dotfiles](https://github.com/pohanhuang/dotfiles) -  (1 week ago)
 - [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (1 week ago)
