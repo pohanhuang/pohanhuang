@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pohanhuang/dotfiles](https://github.com/pohanhuang/dotfiles) -  (today)
-- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (6 days ago)
-- [neuvector/scanner](https://github.com/neuvector/scanner) -  (1 week ago)
-- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (1 week ago)
+- [neuvector/scanner](https://github.com/neuvector/scanner) -  (today)
+- [pohanhuang/dotfiles](https://github.com/pohanhuang/dotfiles) -  (1 day ago)
+- [neuvector/vul-dbgen](https://github.com/neuvector/vul-dbgen) - Generate vulnerability database (1 week ago)
+- [pohanhuang/zmk-corne](https://github.com/pohanhuang/zmk-corne) -  (2 weeks ago)
 - [jenkinsci/neuvector-vulnerability-scanner-plugin](https://github.com/jenkinsci/neuvector-vulnerability-scanner-plugin) - Jenkins plugin that adds NeuVector registry and image scanning as a build step (2 weeks ago)
 
 #### 🌱 Check out my recent projects
